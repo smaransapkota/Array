@@ -1,0 +1,6 @@
+ array implementation is done in two ways 
+
+ - static implementation (array)
+ - dynamic implementation (linked list)
+
+ 

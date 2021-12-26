@@ -15,4 +15,3 @@ Push(S,x) : push the x in stack
 - pop() : delete from stack (S,x)
 - isFull() : checks whether the stack is full or not.
 - isEmpty() : check whether the stack is empty or not.
-- 
